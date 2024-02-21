@@ -1,4 +1,4 @@
 fetch("https://chat/chatResult", {
     method: "POST",
-    body: JSON.stringify({ message: " " }),
+    body: JSON.stringify({ message: "/ooc ? " }),
 });
